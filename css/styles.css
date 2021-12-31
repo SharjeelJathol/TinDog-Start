@@ -56,3 +56,13 @@ p{
 #title{
     background-color: #ff4c68;
 }
+/*Features section*/
+
+#features{
+    padding: 7% 15%;
+    text-align: center;
+}
+.feature-col{
+    padding: 5%;
+}
+
