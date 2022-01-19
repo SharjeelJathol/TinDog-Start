@@ -97,7 +97,13 @@ p{
 }
 
 /*Pricing*/
-
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+.pricing-col{
+    padding: 3% 2%;
+}
 .card-h2{
    color: black;
 }
