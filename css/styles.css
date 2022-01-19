@@ -50,7 +50,9 @@ p{
 
 
 .title-image{
-    width: 60%;
+    width: 21%;
+    transform: rotate(25deg);
+    position: absolute;
 }
 
 #title{
@@ -61,6 +63,9 @@ p{
 #features{
     padding: 7% 15%;
     text-align: center;
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 .feature-col{
     padding: 5%;
