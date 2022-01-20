@@ -120,3 +120,21 @@ p{
         text-align: center;
     }
 }
+
+/*all to action section*/
+#cta{
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.cta-h3{
+    color: white;
+    font-size: 3.5rem;
+}
+
+/*footer*/
+#footer{
+    text-align: center;
+    margin: 7% 15% 0;
+}
