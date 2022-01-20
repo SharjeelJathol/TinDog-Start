@@ -108,3 +108,15 @@ p{
 .card-h2{
    color: black;
 }
+
+/*Mobile resposive*/
+@media (max-width:991px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+        width: 36%;
+    }
+    #title{
+        text-align: center;
+    }
+}
